@@ -5,4 +5,10 @@
     <string name="false_button">False</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">NEXT</string>
+    <string name="prev_button">PREV</string>
+
+    <string name="question_bep">Does Beppi love me?</string>
+    <string name="question_awake">Should I stay up all night?</string>
+    <string name="question_ice">Is Sparkling Ice tasty?</string>
 </resources>
